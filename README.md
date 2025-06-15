@@ -3,7 +3,7 @@ menuAI api
 
 ## 개요
 
-- '오늘의 메뉴 추천' 서비스(https://github.com/ryuryuryuk/menuAI)를 위한 LLM 호출 API
+- '오늘의 메뉴 추천' 서비스(https://github.com/ryuryuryuk/menuAI) 를 위한 LLM 호출 API
 - 프론트엔드의 요청을 받아서 Gemini API를 호출하고, LLM 답변 생성이 완료되면 그 결과를 다시 프론트엔드 쪽으로 응답함.
 
 
